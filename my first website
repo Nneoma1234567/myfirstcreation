@@ -3,10 +3,7 @@
 <HEAD>
 <TITLE> FIRST PAGE </TITLE>
 </HEAD>
-<BODY>
-<H1> WHO AM I? </H1>
-<P> PROJECTS </P>
-<img src="10-dithering-opt.jpg" alt="" width="104" height="142">
+<BODY background = "cool-wood-background.jpg">
 </BODY>
 </HTML>
 
